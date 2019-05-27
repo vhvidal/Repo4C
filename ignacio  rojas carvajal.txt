@@ -1,0 +1,4 @@
+Rut:20.457.394-8
+Nacionalidad:chilena
+Estado civil:soltero
+Fecha de nacimiento:08/06/2000
