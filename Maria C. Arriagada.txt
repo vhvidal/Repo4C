@@ -1,0 +1,4 @@
+Rut: 20.795.439-k
+Nacionalidad: Chilena
+Estado Civil: "Soltera"
+Fecha de nacimiento: 14-09-2001
