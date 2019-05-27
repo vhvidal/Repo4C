@@ -1,0 +1,4 @@
+rut: 20.689.383-4
+nacionalidad : chileno 
+estado civil : soltero
+fecha de nacimiento : 06/08/2001

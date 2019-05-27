@@ -1,0 +1,4 @@
+RUT: 20.850.720-6
+nacionalidad: chileno
+estado civil: soltero
+fecha de nacimiento: 05/09/2001
